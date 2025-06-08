@@ -1,0 +1,5 @@
+-component
+-props
+-css
+-html
+-json
